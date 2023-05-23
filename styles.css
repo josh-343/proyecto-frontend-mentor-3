@@ -88,7 +88,7 @@ h1{
 	main {
 		flex-direction: row;
 		width: 78%;
-		height: 27em;
+		height: 25em;
 		border-radius: 10px;
 	}
 	.presentation-container{
